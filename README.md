@@ -9,5 +9,5 @@ This is going to be merged
 I also deleted the word "first" in the original content
 
 
-## Solve the issye
+## Solve the issue
 Solve the "Many issue"
